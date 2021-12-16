@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="automation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/automation_jar</output-path>
+    <root id="archive" name="automation.jar">
+      <element id="module-output" name="automation" />
+    </root>
+  </artifact>
+</component>
